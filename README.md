@@ -19,9 +19,9 @@
 <h2 align="center">✨ Stats</h2>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresFelipeRojasPerez&show_icons=true&locale=en" alt="AndresFelipeRojasPerez" /></p>
 
-<h2 align="center">📋 Proyect</h2>
+<h2 align="center">📋 Project</h2>
 
--[Individual Project](https://github.com/AndresFelipeRojasPerez/PI-dogs):
+- [Individual Project](https://github.com/AndresFelipeRojasPerez/PI-dogs): This individual project called "Dogs" aims to build a Single Page Application using technologies such as React, Redux, Node, Express, and Sequelize.
 
 - [JobPortalX](https://github.com/AndresFelipeRojasPerez/JobPortalX): The final project, named "JobPortalX," is a job portal that utilizes technologies such as React, Redux, Node.js, Express, Sequelize, among others. It allows users to search, filter, and sort job listings, authenticate using local or third-party credentials, process secure payments, leave reviews, and store data locally. The project also includes an admin panel and a notification system.
 
